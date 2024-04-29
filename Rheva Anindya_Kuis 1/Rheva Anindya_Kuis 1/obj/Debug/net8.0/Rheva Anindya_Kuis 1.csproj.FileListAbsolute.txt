@@ -1,0 +1,14 @@
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\bin\Debug\net8.0\Rheva Anindya_Kuis 1.exe
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\bin\Debug\net8.0\Rheva Anindya_Kuis 1.deps.json
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\bin\Debug\net8.0\Rheva Anindya_Kuis 1.runtimeconfig.json
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\bin\Debug\net8.0\Rheva Anindya_Kuis 1.dll
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\bin\Debug\net8.0\Rheva Anindya_Kuis 1.pdb
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.AssemblyInfoInputs.cache
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.AssemblyInfo.cs
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.csproj.CoreCompileInputs.cache
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.dll
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\refint\Rheva Anindya_Kuis 1.dll
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.pdb
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\Rheva Anindya_Kuis 1.genruntimeconfig.cache
+D:\Data G\III RPLK\SEMESTER 6\Pemrograman Desktop\belajar\Rheva Anindya_Kuis 1\Rheva Anindya_Kuis 1\obj\Debug\net8.0\ref\Rheva Anindya_Kuis 1.dll
